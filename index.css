@@ -1,0 +1,57 @@
+
+body {
+    text-align: center;
+    font-family: "Comic Sans MS" !important;
+    margin: 0px;
+    background-image: url("images/doge.jpeg");
+    background-repeat: repeat;
+    background-size: 100%;
+    background-size: 340px 250px
+}
+
+@font-face {
+    font-family: 'Comic Sans MS';
+    src: url("comic-sans-ms/comici.ttf");
+}
+
+.humpdiddy {
+    position: absolute;
+    padding-left: 160px;
+    padding-top: 100px;
+}
+
+.ben {
+    position: absolute;
+    padding-left: 160px;
+    padding-top: 100px;
+    width: 160px;
+}
+
+.ivan {
+    position: absolute;
+    padding-left: 160px;
+    padding-top: 100px;
+    width: 145px;
+}
+
+
+.matt {
+    position: absolute;
+    padding-left: 160px;
+    padding-top: 100px;
+    width: 148px;
+}
+
+
+.adam {
+    position: absolute;
+    padding-left: 160px;
+    padding-top: 80px;
+}
+
+.mike {
+    position: absolute;
+    padding-left: 160px;
+    padding-top: 100px;
+    width: 170px;
+}
